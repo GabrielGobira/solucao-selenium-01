@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Consoleautomação.Tests/Consoleautomação.Tests.csproj" />
+  <Project Path="Consoleautomação/Consoleautomação.csproj" />
+</Solution>
